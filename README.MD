@@ -12,7 +12,7 @@ Este proyecto permite gestionar una lista de amigos y realizar un sorteo de "Ami
 
 :arrow_forward: Realizar un sorteo asegurando que nadie se asigne a sí mismo como amigo secreto.
 
-:arrow_forward: Mostrar el resultado del sorteo en la pantalla.
+:arrow_forward: Mostrar el resultado del sorteo en la pantalla. :computer:
 
 :arrow_forward: Limpiar la lista después del sorteo para repetir si es necesario.
 
@@ -23,11 +23,11 @@ Uso
 
 :arrow_forward: Agregar Amigos: Escribe el nombre de un amigo en el campo de entrada y agrégalo a la lista. :memo:
 
-:arrow_forward: Ver Lista: Los nombres agregados se mostrarán en la pantalla. :memo:
+:arrow_forward: Ver Lista: Los nombres agregados se mostrarán en la pantalla. :page_with_curl:
 
 :arrow_forward: Sortear Amigos: Presiona el botón de sorteo y se generará un emparejamiento aleatorio. :slot_machine:
 
-:arrow_forward: Ver Resultados: Los resultados se mostrarán en pantalla indicando quién es el "Amigo Secreto" de quién.
+:arrow_forward: Ver Resultados: Los resultados se mostrarán en pantalla indicando quién es el "Amigo Secreto" de quién. :computer:
 
 ![Image](https://github.com/user-attachments/assets/b51497e9-c5b1-4341-9b56-e706674e11aa)
 ![Image](https://github.com/user-attachments/assets/f9bd43af-f1d8-40f7-8220-de7575ac9302)
