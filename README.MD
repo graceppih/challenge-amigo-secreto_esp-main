@@ -16,6 +16,11 @@ Mostrar el resultado del sorteo en la pantalla.
 
 Limpiar la lista después del sorteo para repetir si es necesario.
 
+![Image](https://github.com/user-attachments/assets/e7ca90e4-10ea-4ec0-a232-cd92a5bab9b6) 
+![Image](https://github.com/user-attachments/assets/5d8e0352-ed53-4d81-a7e9-c4a02d2e75f4)
+![Image](https://github.com/user-attachments/assets/b51497e9-c5b1-4341-9b56-e706674e11aa)
+![Image](https://github.com/user-attachments/assets/f9bd43af-f1d8-40f7-8220-de7575ac9302)
+
 Uso
 
 Agregar Amigos: Escribe el nombre de un amigo en el campo de entrada y agrégalo a la lista.
