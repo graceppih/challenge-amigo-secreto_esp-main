@@ -1,10 +1,10 @@
-# ** Challenge Amigo Secreto **
+# Challenge Amigo Secreto
 
 Este proyecto permite gestionar una lista de amigos y realizar un sorteo de "Amigo Secreto" de manera automática.
 
 ![Image](https://github.com/user-attachments/assets/2923fb64-5e19-46ed-89ff-349bedfeee81)
 
- Características
+## Características
 
 :arrow_forward: Agregar amigos a una lista sin permitir nombres duplicados.
 
