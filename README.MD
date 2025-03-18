@@ -36,11 +36,11 @@
 
 Este código está diseñado para ejecutarse en un entorno con HTML y JavaScript. Debe incluir elementos con los siguientes identificadores en el HTML:
 
-:pushpin: #amigo (input donde se ingresan los nombres)
+:pushpin: #amigo (input donde se ingresan los nombres) :memo:
 
-:pushpin: #listaAmigo (lista donde se muestran los amigos agregados) :memo:
+:pushpin: #listaAmigo (lista donde se muestran los amigos agregados) :page_with_curl:
 
-:pushpin: #resultado (contenedor donde se muestran los resultados del sorteo) 
+:pushpin: #resultado (contenedor donde se muestran los resultados del sorteo) :computer:
 
 ## Funciones Principales
 
