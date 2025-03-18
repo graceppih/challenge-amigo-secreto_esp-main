@@ -1,4 +1,4 @@
-# ** ** Challenge Amigo Secreto
+# ** Challenge Amigo Secreto **
 
 Este proyecto permite gestionar una lista de amigos y realizar un sorteo de "Amigo Secreto" de manera automática.
 
