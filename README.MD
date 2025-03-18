@@ -1,6 +1,6 @@
 # Challenge Amigo Secreto
 
-:checkered_flag: Este proyecto permite gestionar una lista de amigos y realizar un sorteo de "Amigo Secreto" de manera automática.
+:checkered_flag: Este proyecto permite gestionar una lista de amigos y realizar un sorteo de "Amigo Secreto" de manera automática. :video_game:
 
 ![Image](https://github.com/user-attachments/assets/2923fb64-5e19-46ed-89ff-349bedfeee81)
 
@@ -38,23 +38,23 @@ Este código está diseñado para ejecutarse en un entorno con HTML y JavaScript
 
 :pushpin: #amigo (input donde se ingresan los nombres)
 
-:pushpin: #listaAmigo (lista donde se muestran los amigos agregados)
+:pushpin: #listaAmigo (lista donde se muestran los amigos agregados) :memo:
 
-:pushpin: #resultado (contenedor donde se muestran los resultados del sorteo)
+:pushpin: #resultado (contenedor donde se muestran los resultados del sorteo) 
 
 ## Funciones Principales
 
 ### agregarAmigo()
 
-Agrega un amigo a la lista si no está vacío y si no está repetido.
+:arrow_forward: Agrega un amigo a la lista si no está vacío y si no está repetido. :heavy_plus_sign: :memo:
 
 ### renderizarAmigos()
 
-Actualiza la lista de amigos en pantalla.
+:arrow_forward: Actualiza la lista de amigos en pantalla. :arrows_counterclockwise: :computer:
 
 ### sortearAmigo()
 
-Realiza el sorteo asegurando que nadie se asigne a sí mismo como amigo secreto y muestra los resultados en la pantalla.
+:arrow_forward: Realiza el sorteo asegurando que nadie se asigne a sí mismo como amigo secreto y muestra los resultados en la pantalla. :slot_machine: :computer:
 
 ![Image](https://github.com/user-attachments/assets/3195f157-d4e0-4d8b-b455-2e5e2141126b)
 ![Image](https://github.com/user-attachments/assets/799646a3-3445-491c-bc48-b17c109472ba)
