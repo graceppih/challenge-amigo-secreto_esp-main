@@ -6,7 +6,7 @@ Este proyecto permite gestionar una lista de amigos y realizar un sorteo de "Ami
 
  Características
 
-(:arrow_forward:) Agregar amigos a una lista sin permitir nombres duplicados.
+:arrow_forward: Agregar amigos a una lista sin permitir nombres duplicados.
 
 (:arrow_forward:) Mostrar la lista de amigos en la interfaz.
 
