@@ -18,8 +18,6 @@ Limpiar la lista después del sorteo para repetir si es necesario.
 
 ![Image](https://github.com/user-attachments/assets/e7ca90e4-10ea-4ec0-a232-cd92a5bab9b6) 
 ![Image](https://github.com/user-attachments/assets/5d8e0352-ed53-4d81-a7e9-c4a02d2e75f4)
-![Image](https://github.com/user-attachments/assets/b51497e9-c5b1-4341-9b56-e706674e11aa)
-![Image](https://github.com/user-attachments/assets/f9bd43af-f1d8-40f7-8220-de7575ac9302)
 
 Uso
 
@@ -30,6 +28,9 @@ Ver Lista: Los nombres agregados se mostrarán en la pantalla.
 Sortear Amigos: Presiona el botón de sorteo y se generará un emparejamiento aleatorio.
 
 Ver Resultados: Los resultados se mostrarán en pantalla indicando quién es el "Amigo Secreto" de quién.
+
+![Image](https://github.com/user-attachments/assets/b51497e9-c5b1-4341-9b56-e706674e11aa)
+![Image](https://github.com/user-attachments/assets/f9bd43af-f1d8-40f7-8220-de7575ac9302)
 
 Requisitos
 
@@ -55,6 +56,9 @@ sortearAmigo()
 
 Realiza el sorteo asegurando que nadie se asigne a sí mismo como amigo secreto y muestra los resultados en la pantalla.
 
+![Image](https://github.com/user-attachments/assets/3195f157-d4e0-4d8b-b455-2e5e2141126b)
+![Image](https://github.com/user-attachments/assets/799646a3-3445-491c-bc48-b17c109472ba)
+
 Notas
 
 Se requiere un mínimo de 2 amigos para poder realizar el sorteo.
@@ -62,6 +66,8 @@ Se requiere un mínimo de 2 amigos para poder realizar el sorteo.
 Si el sorteo no es válido (por ejemplo, un solo participante queda con su propio nombre), se reinicia automáticamente.
 
 La lista se limpia después de cada sorteo para permitir nuevos emparejamientos.
+
+![Image](https://github.com/user-attachments/assets/5cb0d188-e74e-4289-a698-d1e11a1bf3b5)
 
 Autor
 
