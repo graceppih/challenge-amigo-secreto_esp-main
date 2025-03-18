@@ -4,17 +4,17 @@ Este proyecto permite gestionar una lista de amigos y realizar un sorteo de "Ami
 
 ![Image](https://github.com/user-attachments/assets/2923fb64-5e19-46ed-89ff-349bedfeee81)
 
-Características
+ Características
 
-Agregar amigos a una lista sin permitir nombres duplicados.
+(:arrow_forward:) Agregar amigos a una lista sin permitir nombres duplicados.
 
-Mostrar la lista de amigos en la interfaz.
+(:arrow_forward:) Mostrar la lista de amigos en la interfaz.
 
-Realizar un sorteo asegurando que nadie se asigne a sí mismo como amigo secreto.
+(:arrow_forward:) Realizar un sorteo asegurando que nadie se asigne a sí mismo como amigo secreto.
 
-Mostrar el resultado del sorteo en la pantalla.
+(:arrow_forward:) Mostrar el resultado del sorteo en la pantalla.
 
-Limpiar la lista después del sorteo para repetir si es necesario.
+(:arrow_forward:) Limpiar la lista después del sorteo para repetir si es necesario.
 
 ![Image](https://github.com/user-attachments/assets/e7ca90e4-10ea-4ec0-a232-cd92a5bab9b6) 
 ![Image](https://github.com/user-attachments/assets/5d8e0352-ed53-4d81-a7e9-c4a02d2e75f4)
