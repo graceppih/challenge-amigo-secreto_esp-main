@@ -8,26 +8,26 @@ Este proyecto permite gestionar una lista de amigos y realizar un sorteo de "Ami
 
 :arrow_forward: Agregar amigos a una lista sin permitir nombres duplicados.
 
-(:arrow_forward:) Mostrar la lista de amigos en la interfaz.
+:arrow_forward: Mostrar la lista de amigos en la interfaz.
 
-(:arrow_forward:) Realizar un sorteo asegurando que nadie se asigne a sí mismo como amigo secreto.
+:arrow_forward: Realizar un sorteo asegurando que nadie se asigne a sí mismo como amigo secreto.
 
-(:arrow_forward:) Mostrar el resultado del sorteo en la pantalla.
+:arrow_forward: Mostrar el resultado del sorteo en la pantalla.
 
-(:arrow_forward:) Limpiar la lista después del sorteo para repetir si es necesario.
+:arrow_forward: Limpiar la lista después del sorteo para repetir si es necesario.
 
 ![Image](https://github.com/user-attachments/assets/e7ca90e4-10ea-4ec0-a232-cd92a5bab9b6) 
 ![Image](https://github.com/user-attachments/assets/5d8e0352-ed53-4d81-a7e9-c4a02d2e75f4)
 
 Uso
 
-Agregar Amigos: Escribe el nombre de un amigo en el campo de entrada y agrégalo a la lista.
+:arrow_forward: Agregar Amigos: Escribe el nombre de un amigo en el campo de entrada y agrégalo a la lista. :memo:
 
-Ver Lista: Los nombres agregados se mostrarán en la pantalla.
+:arrow_forward: Ver Lista: Los nombres agregados se mostrarán en la pantalla. :memo:
 
-Sortear Amigos: Presiona el botón de sorteo y se generará un emparejamiento aleatorio.
+:arrow_forward: Sortear Amigos: Presiona el botón de sorteo y se generará un emparejamiento aleatorio. :slot_machine:
 
-Ver Resultados: Los resultados se mostrarán en pantalla indicando quién es el "Amigo Secreto" de quién.
+:arrow_forward: Ver Resultados: Los resultados se mostrarán en pantalla indicando quién es el "Amigo Secreto" de quién.
 
 ![Image](https://github.com/user-attachments/assets/b51497e9-c5b1-4341-9b56-e706674e11aa)
 ![Image](https://github.com/user-attachments/assets/f9bd43af-f1d8-40f7-8220-de7575ac9302)
@@ -36,11 +36,11 @@ Requisitos
 
 Este código está diseñado para ejecutarse en un entorno con HTML y JavaScript. Debe incluir elementos con los siguientes identificadores en el HTML:
 
-#amigo (input donde se ingresan los nombres)
+:pushpin: #amigo (input donde se ingresan los nombres)
 
-#listaAmigo (lista donde se muestran los amigos agregados)
+:pushpin: #listaAmigo (lista donde se muestran los amigos agregados)
 
-#resultado (contenedor donde se muestran los resultados del sorteo)
+:pushpin: #resultado (contenedor donde se muestran los resultados del sorteo)
 
 Funciones Principales
 
